@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bl_group-4-lesson-3/static/css/main.412fc565.css",
+    "main.js": "/Bl_group-4-lesson-3/static/js/main.77b088cc.js",
+    "index.html": "/Bl_group-4-lesson-3/index.html",
+    "main.412fc565.css.map": "/Bl_group-4-lesson-3/static/css/main.412fc565.css.map",
+    "main.77b088cc.js.map": "/Bl_group-4-lesson-3/static/js/main.77b088cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412fc565.css",
+    "static/js/main.77b088cc.js"
+  ]
+}
