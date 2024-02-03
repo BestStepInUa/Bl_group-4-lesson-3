@@ -7,7 +7,7 @@ import { fetchCountry } from 'service/country-service';
 export const Country = () => {
   const { countryId } = useParams();
   const location = useLocation();
-  const goBackLocationRef = useRef(location.state.from || '/');
+  const goBackLocationRef = useRef(location.state?.from || '/');
   const [country, setCountry] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
   const [isError, setIsError] = useState(false);
